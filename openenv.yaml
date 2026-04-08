@@ -1,0 +1,7 @@
+name: evara-env
+description: Emotion-aware chatbot environment
+version: 1.0
+tasks:
+  - easy
+  - medium
+  - hard
